@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Carleton
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>49</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+            							<p>94</p>
+              <p>	<interp key="quarters referred to as 'negro-grounds'" n="Jamaica, Slave Law of Jamaica: With Proceedings and Documents Relative Thereto, (London:James Ridgway, 1828), 66." cert="med" ref="http://hdl.handle.net/2027/nyp.33433075913313">The evidence of the existence of this principle, not
+               merely in some statute which it might be alleged was 
+               obsolete and inoperative, but in active and constant 
+               operation, then drawn from the Royal Gazette of 
+               <placeName key="Jamaica" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Jamaica&amp;params=18.1823878_N_-77.3217773_E_scale:1000000">Jamaica</placeName>. From the same respectable and authentic
+               source we derive the proof, that, up to this day, the same
+               principle continues still to be maintained in law, and
+               acted upon in practice.</interp></p>
+               <p>	From the Royal Gazette of September, 1822, we 
+               extract the following notices of persons taken up, and
+               confined as runaways, viz. : -</p>
+               <p>	"In <placeName key="St Andrew's Parish, Jamaica" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Saint_Andrew_Parish%2C_Jamaica&amp;params=18_01_N_76_54_W_">St. Andrew's work-house</placeName>, <persName key="--, Robertson" from="?" to="?" role="discharged soldier" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> Robertson</persName>, a Man-
+               dingo; says <persName key="Robertson, --" from="?" to="?" role="discharged soldier" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> he </persName> is a discharged soldier, of the second West
+               <placeName key="India" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=India&amp;params=21_N_78_E_region:IN_type:country_source:dewiki">India</placeName> regiment, and that <persName key="Robertson, --" from="?" to="?" role="discharged soldier" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> he </persName>is free."</p>
+               <p>	"In <placeName key="St James Parish, Jamaica" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Saint_James_Parish%2C_Jamaica&amp;params=18_23_N_77_53_W_region:JM_type:adm1st_source:GNS-enwiki">St. James's work-house</placeName>, <persName key="Lee, Joseph" from="?" to="?" role="Free" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> Joseph Lee</persName>, a Creole; no
+               apparent brand mark* : says <persName key="Lee, Joseph" from="?" to="?" role="Free" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66">he</persName> is free, but has no docu-
+               ment thereof."</p>
+               <p>	"In <placeName key="Spanish Town, Jamaica" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Spanish_Town&amp;params=17.9958766_N_-76.9551086_E_region:JM-14_type:city">Spanish Town work-house</placeName>, <persName key="Quin, Edward" from="?" to="?" role="Free" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> Edward Quin</persName>, a native 
+               of <placeName key="Montserrat, British Overseas Territory" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Montserrat&amp;params=16_45_N_62_12_W_type:isle">Montserrat</placeName>, elderly; no mark : says <persName key="Quin, Edward" from="?" to="?" role="Free" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> he</persName> is free, but no
+               document."</p>
+               <p>	In <placeName key="Clarendon Parish, Jamaica" ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=Clarendon_Parish%2C_Jamaica&amp;params=18_00_N_77_17_W_type:adm1st_region:JM">Clarendon work-house</placeName>, <persName key="--, Harry" from="?" to="?" role="Slave" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> Harry</persName>, a Creole; formerly
+               belonged to <persName key="George, Mr" from="?" to="1797" role="Slave-Owner" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66"> Mr. George</persName>, who died before the Maroon
+               war (1797); has had no owner since : grey-headed."</p>
+               <p>	But what proof is there that these persons were ac-
+               tually sold? We can adduce no evidence on this point.
+               These persons may, for aught we know, have been able,
+               before the period of their imprisonment expired, to esta-
+               blish their freedom by legal proof. <interp key="scared of runaway slaves" n="Robert Worthington Smith,  &quot;The Legal Status of Jamaican Slaves Before the Anti-Slavery Movement,&quot; The Journal of Negro History 30, (1945): 296, accessed April 2, 2015, http://www.jstor.org.proxy.library.carleton.ca/stable/2715113" cert="high" ref="http://www.jstor.org.proxy.library.carleton.ca/stable/2715113">But if they were
+               unable to do this, it would only have been following
+               the course prescribed by the law, to sell them, by
+               public auction, as slaves. Of this fact the very num-
+               bers of the Gazette which have supplied the above ex-</interp></p>
+               
+               * <p><interp key="often mentioned in testimonies of slaves" n="Ulrich Bonnell Phillips, A Jamaica Slave Plantation, (United States, 1914), 556. " cert="high" ref="http://hdl.handle.net/2027/mdp.39015071624980">Slaves are commonly marked with the owner's name, like sheep or
+               cattle. The operation is performed with a heated brand.</interp></p>
+
+               
+                  
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
