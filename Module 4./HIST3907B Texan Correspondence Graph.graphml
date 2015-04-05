@@ -1,0 +1,3882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Component ID" attr.type="int" for="node" id="componentnumber"/>
+<key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+<graph edgedefault="directed">
+<node id="Sam Houston">
+<data key="label">Sam Houston</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0061459348285723865</data>
+<data key="size">1.1608812</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-27.990593</data>
+<data key="y">-3.28408</data>
+</node>
+<node id="J. Pinckney Henderson">
+<data key="label">J. Pinckney Henderson</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.013040092645552953</data>
+<data key="size">1.3413484</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-30.424448</data>
+<data key="y">82.50971</data>
+</node>
+<node id="James Webb">
+<data key="label">James Webb</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.01619251268880382</data>
+<data key="size">1.4238689</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-11.935551</data>
+<data key="y">95.901535</data>
+</node>
+<node id="Alc6e La Branche">
+<data key="label">Alc6e La Branche</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.007079312070041036</data>
+<data key="size">1.185314</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">37.198437</data>
+<data key="y">88.11765</data>
+</node>
+<node id="David G. Burnet">
+<data key="label">David G. Burnet</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.01525365405262672</data>
+<data key="size">1.3992925</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">33.851936</data>
+<data key="y">80.38302</data>
+</node>
+<node id="Richard G. Dunlap">
+<data key="label">Richard G. Dunlap</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.005969069888073439</data>
+<data key="size">1.1562514</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">43.65845</data>
+<data key="y">75.8691</data>
+</node>
+<node id="Nathaniel Amory">
+<data key="label">Nathaniel Amory</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.004649513457157053</data>
+<data key="size">1.1217096</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">5.884512</data>
+<data key="y">60.58616</data>
+</node>
+<node id="T. Dunlap">
+<data key="label">T. Dunlap</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">72.66505</data>
+<data key="y">90.715164</data>
+</node>
+<node id="John Emberson">
+<data key="label">John Emberson</data>
+<data key="componentnumber">1</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1317.0266</data>
+<data key="y">585.1503</data>
+</node>
+<node id="Albert Sidney Johnston">
+<data key="label">Albert Sidney Johnston</data>
+<data key="componentnumber">1</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1316.6661</data>
+<data key="y">582.34595</data>
+</node>
+<node id="William Scurlock">
+<data key="label">William Scurlock</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">63.54991</data>
+<data key="y">96.55605</data>
+</node>
+<node id="William M. Williams">
+<data key="label">William M. Williams</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">57.992775</data>
+<data key="y">99.90272</data>
+</node>
+<node id="D. Rowlett">
+<data key="label">D. Rowlett</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">49.828606</data>
+<data key="y">89.083115</data>
+</node>
+<node id="Abner S. Lipscomb">
+<data key="label">Abner S. Lipscomb</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.012061330607509484</data>
+<data key="size">1.3157276</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">18.66138</data>
+<data key="y">67.53446</data>
+</node>
+<node id="James Hamilton and A. T. Bumley">
+<data key="label">James Hamilton and A. T. Bumley</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0022907615872412622</data>
+<data key="size">1.0599649</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">48.210594</data>
+<data key="y">65.2564</data>
+</node>
+<node id="Joseph Waples">
+<data key="label">Joseph Waples</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0026680935219917682</data>
+<data key="size">1.0698422</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-24.501616</data>
+<data key="y">34.872166</data>
+</node>
+<node id="Barnard E. Bee">
+<data key="label">Barnard E. Bee</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.01290491882069942</data>
+<data key="size">1.33781</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-17.805954</data>
+<data key="y">89.86204</data>
+</node>
+<node id="Geo. H. Flood">
+<data key="label">Geo. H. Flood</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.005321151375063239</data>
+<data key="size">1.1392909</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-11.620724</data>
+<data key="y">38.217705</data>
+</node>
+<node id="James S. Mayfield">
+<data key="label">James S. Mayfield</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.026639380924494714</data>
+<data key="size">1.6973349</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">0.629839</data>
+<data key="y">28.367275</data>
+</node>
+<node id="Samuel A. Roberts">
+<data key="label">Samuel A. Roberts</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.004805309583551661</data>
+<data key="size">1.1257879</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-55.056984</data>
+<data key="y">64.99574</data>
+</node>
+<node id="Joseph Eve">
+<data key="label">Joseph Eve</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.010444416133500391</data>
+<data key="size">1.2734019</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-38.713387</data>
+<data key="y">-14.747361</data>
+</node>
+<node id="A. B. Roman">
+<data key="label">A. B. Roman</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0021730090297852594</data>
+<data key="size">1.0568825</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-42.0638</data>
+<data key="y">1.8098303</data>
+</node>
+<node id="Isaac Van Zandt">
+<data key="label">Isaac Van Zandt</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.02909367291563773</data>
+<data key="size">1.7615805</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-17.829788</data>
+<data key="y">-40.26326</data>
+</node>
+<node id="Anson Jones">
+<data key="label">Anson Jones</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.11460510397495656</data>
+<data key="size">4.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-6.350741</data>
+<data key="y">-35.390686</data>
+</node>
+<node id="J. C. Spencer">
+<data key="label">J. C. Spencer</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-45.99326</data>
+<data key="y">-67.744484</data>
+</node>
+<node id="T. Hartley Crawford">
+<data key="label">T. Hartley Crawford</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">74.98703</data>
+<data key="y">-123.31378</data>
+</node>
+<node id="Wm. Armstrong">
+<data key="label">Wm. Armstrong</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0022206928506110276</data>
+<data key="size">1.0581307</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">86.54899</data>
+<data key="y">-142.05927</data>
+</node>
+<node id="R. Jones">
+<data key="label">R. Jones</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-89.42614</data>
+<data key="y">-193.52046</data>
+</node>
+<node id="W. Davenport and G. Loomis">
+<data key="label">W. Davenport and G. Loomis</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0019999102095644844</data>
+<data key="size">1.0523514</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-93.38547</data>
+<data key="y">-208.7827</data>
+</node>
+<node id="M. E. Hale">
+<data key="label">M. E. Hale</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-69.12876</data>
+<data key="y">-21.534172</data>
+</node>
+<node id="Wm. Henry Daingerfield">
+<data key="label">Wm. Henry Daingerfield</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.012529503051100923</data>
+<data key="size">1.3279829</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1.24706</data>
+<data key="y">-61.98633</data>
+</node>
+<node id="Texaa">
+<data key="label">Texaa</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0026680935219917682</data>
+<data key="size">1.0698422</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-68.850365</data>
+<data key="y">-15.067973</data>
+</node>
+<node id="' Daniel Webster">
+<data key="label">' Daniel Webster</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-54.42799</data>
+<data key="y">-51.884735</data>
+</node>
+<node id="William S. Archer">
+<data key="label">William S. Archer</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0022453524655899806</data>
+<data key="size">1.0587763</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-49.393917</data>
+<data key="y">-62.742363</data>
+</node>
+<node id="Daniel Webster">
+<data key="label">Daniel Webster</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0022453524655899806</data>
+<data key="size">1.0587763</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-53.594456</data>
+<data key="y">-58.53605</data>
+</node>
+<node id="Reuben M. Potter">
+<data key="label">Reuben M. Potter</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-45.998863</data>
+<data key="y">-51.557095</data>
+</node>
+<node id="A. M. Green">
+<data key="label">A. M. Green</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0033657760733334474</data>
+<data key="size">1.0881054</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-46.496193</data>
+<data key="y">-38.1877</data>
+</node>
+<node id="Joseph W. Robertson">
+<data key="label">Joseph W. Robertson</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-34.647205</data>
+<data key="y">-63.97697</data>
+</node>
+<node id="Charles H. Raymond">
+<data key="label">Charles H. Raymond</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.01623121472922627</data>
+<data key="size">1.4248819</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">28.27878</data>
+<data key="y">-62.58147</data>
+</node>
+<node id="Jesse Benton">
+<data key="label">Jesse Benton</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">28.2288</data>
+<data key="y">-26.08522</data>
+</node>
+<node id="Petition of Joseph Cooper">
+<data key="label">Petition of Joseph Cooper</data>
+<data key="componentnumber">2</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">927.7103</data>
+<data key="y">-1158.7178</data>
+</node>
+<node id="the Texan minister 187">
+<data key="label">the Texan minister 187</data>
+<data key="componentnumber">2</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">929.7372</data>
+<data key="y">-1156.7863</data>
+</node>
+<node id="President of Texas">
+<data key="label">President of Texas</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003109658804084854</data>
+<data key="size">1.0814011</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-113.704796</data>
+<data key="y">-35.654465</data>
+</node>
+<node id="J. M. Porter">
+<data key="label">J. M. Porter</data>
+<data key="componentnumber">3</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-91.39504</data>
+<data key="y">-1534.6188</data>
+</node>
+<node id="H. S. Legar^">
+<data key="label">H. S. Legar^</data>
+<data key="componentnumber">3</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-88.58877</data>
+<data key="y">-1534.9717</data>
+</node>
+<node id="William Armstrong">
+<data key="label">William Armstrong</data>
+<data key="componentnumber">4</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">379.43765</data>
+<data key="y">-1447.9176</data>
+</node>
+<node id="T. H. Crawford">
+<data key="label">T. H. Crawford</data>
+<data key="componentnumber">4</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">381.00214</data>
+<data key="y">-1449.1643</data>
+</node>
+<node id="M. C. Hamilton">
+<data key="label">M. C. Hamilton</data>
+<data key="componentnumber">5</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1554.782</data>
+<data key="y">489.99045</data>
+</node>
+<node id="Jacob Snively">
+<data key="label">Jacob Snively</data>
+<data key="componentnumber">5</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1553.4613</data>
+<data key="y">495.7507</data>
+</node>
+<node id="Geo. W. HUl">
+<data key="label">Geo. W. HUl</data>
+<data key="componentnumber">5</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1552.0437</data>
+<data key="y">499.93665</data>
+</node>
+<node id="W. S. Murphy">
+<data key="label">W. S. Murphy</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0027034281501938187</data>
+<data key="size">1.0707672</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-28.826492</data>
+<data key="y">-38.510387</data>
+</node>
+<node id="A. P. Upshur">
+<data key="label">A. P. Upshur</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0022453524655899806</data>
+<data key="size">1.0587763</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-41.32903</data>
+<data key="y">-56.38601</data>
+</node>
+<node id="J. H. Brower">
+<data key="label">J. H. Brower</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-30.598722</data>
+<data key="y">-46.10352</data>
+</node>
+<node id="Van Zandt and Henderson">
+<data key="label">Van Zandt and Henderson</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0050778395775439595</data>
+<data key="size">1.1329218</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-20.254208</data>
+<data key="y">-19.626024</data>
+</node>
+<node id="Address of Tilghman A. Howard">
+<data key="label">Address of Tilghman A. Howard</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">29.102024</data>
+<data key="y">-31.99039</data>
+</node>
+<node id="Howard *s address 294">
+<data key="label">Howard *s address 294</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0027034281501938187</data>
+<data key="size">1.0707672</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-34.641537</data>
+<data key="y">-56.941296</data>
+</node>
+<node id="Wm. Wilkins">
+<data key="label">Wm. Wilkins</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">53.96635</data>
+<data key="y">-104.61363</data>
+</node>
+<node id="John C. Calhoun">
+<data key="label">John C. Calhoun</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.007082391030486805</data>
+<data key="size">1.1853946</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">36.412125</data>
+<data key="y">-79.83142</data>
+</node>
+<node id="D. Parker">
+<data key="label">D. Parker</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">48.165012</data>
+<data key="y">-108.27809</data>
+</node>
+<node id="the Secretary of War [of the United States]">
+<data key="label">the Secretary of War [of the United States]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0019999102095644844</data>
+<data key="size">1.0523514</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-99.1522</data>
+<data key="y">-205.92819</data>
+</node>
+<node id="Zachary Taylor">
+<data key="label">Zachary Taylor</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0031449934322869046</data>
+<data key="size">1.082326</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-62.750706</data>
+<data key="y">-140.81508</data>
+</node>
+<node id="AdjutantrGeneral [R. Jones]">
+<data key="label">AdjutantrGeneral [R. Jones]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0042318819912572974</data>
+<data key="size">1.1107773</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-71.95782</data>
+<data key="y">-157.6733</data>
+</node>
+<node id="G. Loomis">
+<data key="label">G. Loomis</data>
+<data key="componentnumber">6</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1453.3668</data>
+<data key="y">-521.7692</data>
+</node>
+<node id="W. W. S. Bliss">
+<data key="label">W. W. S. Bliss</data>
+<data key="componentnumber">6</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1451.9006</data>
+<data key="y">-524.1599</data>
+</node>
+<node id="James Reily">
+<data key="label">James Reily</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003224348180305692</data>
+<data key="size">1.0844033</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-22.882523</data>
+<data key="y">-63.626934</data>
+</node>
+<node id="A. J. Donelson">
+<data key="label">A. J. Donelson</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.010514515374806176</data>
+<data key="size">1.2752368</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">44.85228</data>
+<data key="y">-73.40496</data>
+</node>
+<node id="M.S. CucuUu">
+<data key="label">M.S. CucuUu</data>
+<data key="componentnumber">7</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1394.3036</data>
+<data key="y">34.42862</data>
+</node>
+<node id="John C. Spencer">
+<data key="label">John C. Spencer</data>
+<data key="componentnumber">7</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1395.9756</data>
+<data key="y">32.160313</data>
+</node>
+<node id="Balie Peyton">
+<data key="label">Balie Peyton</data>
+<data key="componentnumber">8</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">29.0788</data>
+<data key="y">1497.7737</data>
+</node>
+<node id="M. S. CucuUu">
+<data key="label">M. S. CucuUu</data>
+<data key="componentnumber">8</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">31.905598</data>
+<data key="y">1497.7059</data>
+</node>
+<node id="Eddy and Moss">
+<data key="label">Eddy and Moss</data>
+<data key="componentnumber">9</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1262.9913</data>
+<data key="y">-799.5932</data>
+</node>
+<node id="the collector of the customs at New Orleans">
+<data key="label">the collector of the customs at New Orleans</data>
+<data key="componentnumber">9</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1265.0112</data>
+<data key="y">-797.6236</data>
+</node>
+<node id="Secretary of State [Jones]">
+<data key="label">Secretary of State [Jones]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.004741743572022134</data>
+<data key="size">1.1241239</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-10.913573</data>
+<data key="y">-70.38911</data>
+</node>
+<node id="Secretary of State [Allen]">
+<data key="label">Secretary of State [Allen]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0037715223743774754</data>
+<data key="size">1.0987265</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">42.127426</data>
+<data key="y">-85.07088</data>
+</node>
+<node id="Ebenezer Allen">
+<data key="label">Ebenezer Allen</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.027855373702685034</data>
+<data key="size">1.7291658</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">43.42255</data>
+<data key="y">-61.204662</data>
+</node>
+<node id="Duff Green">
+<data key="label">Duff Green</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0028830407737506563</data>
+<data key="size">1.0754689</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">84.5867</data>
+<data key="y">-115.9773</data>
+</node>
+<node id="Williams; Thurston; and Meggerson">
+<data key="label">Williams; Thurston; and Meggerson</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">99.54136</data>
+<data key="y">-132.18958</data>
+</node>
+<node id="Ashbel Smith">
+<data key="label">Ashbel Smith</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.07844526822474741</data>
+<data key="size">3.0534496</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">7.5335784</data>
+<data key="y">-45.09424</data>
+</node>
+<node id="Stewart Newell">
+<data key="label">Stewart Newell</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">17.23918</data>
+<data key="y">-86.744446</data>
+</node>
+<node id="David S. Kaufman">
+<data key="label">David S. Kaufman</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.007060059736484843</data>
+<data key="size">1.18481</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">66.663574</data>
+<data key="y">-58.154003</data>
+</node>
+<node id="James K. Polk">
+<data key="label">James K. Polk</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.004993594595638659</data>
+<data key="size">1.1307166</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-23.043123</data>
+<data key="y">-32.48374</data>
+</node>
+<node id="William D. Lee">
+<data key="label">William D. Lee</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.005871571190799014</data>
+<data key="size">1.1536992</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">66.0546</data>
+<data key="y">-41.180416</data>
+</node>
+<node id="E. A. Rhodes">
+<data key="label">E. A. Rhodes</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.005600076274274642</data>
+<data key="size">1.1465924</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">76.045586</data>
+<data key="y">-84.95606</data>
+</node>
+<node id="J. Y. Mason">
+<data key="label">J. Y. Mason</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">94.18942</data>
+<data key="y">-101.81142</data>
+</node>
+<node id="James Buchanan">
+<data key="label">James Buchanan</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.006872148231928808</data>
+<data key="size">1.1798911</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">78.339066</data>
+<data key="y">-5.3621354</data>
+</node>
+<node id="W. L. Marcy">
+<data key="label">W. L. Marcy</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">91.98427</data>
+<data key="y">-68.28708</data>
+</node>
+<node id="Joseph C. Eldredge">
+<data key="label">Joseph C. Eldredge</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">98.11988</data>
+<data key="y">-96.754845</data>
+</node>
+<node id="R. J. Walker">
+<data key="label">R. J. Walker</data>
+<data key="componentnumber">10</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">534.4639</data>
+<data key="y">1379.628</data>
+</node>
+<node id="Hiram G. Runnels">
+<data key="label">Hiram G. Runnels</data>
+<data key="componentnumber">10</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">531.6711</data>
+<data key="y">1380.0696</data>
+</node>
+<node id="Anto. Lopez de Santa Anna">
+<data key="label">Anto. Lopez de Santa Anna</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003916297181667792</data>
+<data key="size">1.1025163</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">32.314907</data>
+<data key="y">68.14313</data>
+</node>
+<node id="Stephen F. Austin">
+<data key="label">Stephen F. Austin</data>
+<data key="componentnumber">11</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1691.1013</data>
+<data key="y">120.14305</data>
+</node>
+<node id="Fran. Pizarro Martinez">
+<data key="label">Fran. Pizarro Martinez</data>
+<data key="componentnumber">11</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1694.8945</data>
+<data key="y">120.608955</data>
+</node>
+<node id="Geo. W. Hockley">
+<data key="label">Geo. W. Hockley</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-45.168118</data>
+<data key="y">-2.2905304</data>
+</node>
+<node id="A. J. Yates">
+<data key="label">A. J. Yates</data>
+<data key="componentnumber">11</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1686.28</data>
+<data key="y">119.545425</data>
+</node>
+<node id="Correspondent in Tampico">
+<data key="label">Correspondent in Tampico</data>
+<data key="componentnumber">12</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-289.48596</data>
+<data key="y">-1433.8989</data>
+</node>
+<node id="T. Toby">
+<data key="label">T. Toby</data>
+<data key="componentnumber">12</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-291.23077</data>
+<data key="y">-1434.8765</data>
+</node>
+<node id="Antonio Canales">
+<data key="label">Antonio Canales</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">23.474897</data>
+<data key="y">118.66167</data>
+</node>
+<node id="Mirabeau B. Lamar">
+<data key="label">Mirabeau B. Lamar</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.029195925045802977</data>
+<data key="size">1.7642572</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">16.492195</data>
+<data key="y">90.473526</data>
+</node>
+<node id="Geo. L. Hammeken">
+<data key="label">Geo. L. Hammeken</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-4.447601</data>
+<data key="y">79.93312</data>
+</node>
+<node id="James Hamilton">
+<data key="label">James Hamilton</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.020597004018777232</data>
+<data key="size">1.5391645</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">9.6965885</data>
+<data key="y">47.264423</data>
+</node>
+<node id="J. R. Poinsett">
+<data key="label">J. R. Poinsett</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-6.3944283</data>
+<data key="y">58.955944</data>
+</node>
+<node id="R. Copeland">
+<data key="label">R. Copeland</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018887818978778755</data>
+<data key="size">1.0494423</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">37.248093</data>
+<data key="y">47.87385</data>
+</node>
+<node id="[Lamar]">
+<data key="label">[Lamar]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.001980386951293209</data>
+<data key="size">1.0518403</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-37.803177</data>
+<data key="y">115.67837</data>
+</node>
+<node id="James Treat">
+<data key="label">James Treat</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.023140975998121316</data>
+<data key="size">1.6057577</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">25.861973</data>
+<data key="y">87.260155</data>
+</node>
+<node id="Jacob Barker">
+<data key="label">Jacob Barker</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-33.51013</data>
+<data key="y">120.799805</data>
+</node>
+<node id="A Friend of Treat in Mexico">
+<data key="label">A Friend of Treat in Mexico</data>
+<data key="componentnumber">13</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1448.3988</data>
+<data key="y">118.70966</data>
+</node>
+<node id="a Friend of Treat in New Orleans [Vitalba]">
+<data key="label">a Friend of Treat in New Orleans [Vitalba]</data>
+<data key="componentnumber">13</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1449.5768</data>
+<data key="y">116.13837</data>
+</node>
+<node id="A Friend of Treat in New Orleans [Vitalba]">
+<data key="label">A Friend of Treat in New Orleans [Vitalba]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">50.313877</data>
+<data key="y">117.54396</data>
+</node>
+<node id="A. S. Wright">
+<data key="label">A. S. Wright</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-21.106697</data>
+<data key="y">106.20916</data>
+</node>
+<node id="Wm. Bryan">
+<data key="label">Wm. Bryan</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018067253986487593</data>
+<data key="size">1.0472944</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-25.991259</data>
+<data key="y">116.657265</data>
+</node>
+<node id="William Bryan">
+<data key="label">William Bryan</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0016411384178638523</data>
+<data key="size">1.0429598</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-36.213097</data>
+<data key="y">134.34235</data>
+</node>
+<node id="Juan de Dios Cafiedo">
+<data key="label">Juan de Dios Cafiedo</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003772354112566579</data>
+<data key="size">1.0987483</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">31.677143</data>
+<data key="y">93.86449</data>
+</node>
+<node id="R. Pakenham">
+<data key="label">R. Pakenham</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.013475088446484961</data>
+<data key="size">1.3527353</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">25.251099</data>
+<data key="y">97.254395</data>
+</node>
+<node id="John Merle">
+<data key="label">John Merle</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0016411384178638523</data>
+<data key="size">1.0429598</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-30.072918</data>
+<data key="y">137.34337</data>
+</node>
+<node id="Juan Nepomuceno Almonte">
+<data key="label">Juan Nepomuceno Almonte</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018043459480375297</data>
+<data key="size">1.047232</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">51.52805</data>
+<data key="y">111.233086</data>
+</node>
+<node id="Propositions of Texas">
+<data key="label">Propositions of Texas</data>
+<data key="componentnumber">14</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-439.53525</data>
+<data key="y">1431.6959</data>
+</node>
+<node id="Mexico">
+<data key="label">Mexico</data>
+<data key="componentnumber">14</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-436.8314</data>
+<data key="y">1432.5266</data>
+</node>
+<node id="Hamilton and Burnley">
+<data key="label">Hamilton and Burnley</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0022907615872412622</data>
+<data key="size">1.0599649</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">15.227903</data>
+<data key="y">121.03971</data>
+</node>
+<node id="Secretary of State [Lipscomb]">
+<data key="label">Secretary of State [Lipscomb]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0026484299956811503</data>
+<data key="size">1.0693276</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-4.281512</data>
+<data key="y">106.08027</data>
+</node>
+<node id="Jas. Ogilvy">
+<data key="label">Jas. Ogilvy</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">33.569504</data>
+<data key="y">112.551865</data>
+</node>
+<node id="Correspondent at Vera Cruz">
+<data key="label">Correspondent at Vera Cruz</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">62.1544</data>
+<data key="y">104.580666</data>
+</node>
+<node id="James Ritchie">
+<data key="label">James Ritchie</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018043459480375297</data>
+<data key="size">1.047232</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">44.287163</data>
+<data key="y">116.525536</data>
+</node>
+<node id="E. W. Moore">
+<data key="label">E. W. Moore</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.013571370516770358</data>
+<data key="size">1.3552556</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">63.56542</data>
+<data key="y">76.33988</data>
+</node>
+<node id="Memorandum communicated by Treat">
+<data key="label">Memorandum communicated by Treat</data>
+<data key="componentnumber">15</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1161.9578</data>
+<data key="y">-907.6062</data>
+</node>
+<node id="Mexican Government">
+<data key="label">Mexican Government</data>
+<data key="componentnumber">15</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1162.4742</data>
+<data key="y">-904.8267</data>
+</node>
+<node id="Agent of Texas [Treat]">
+<data key="label">Agent of Texas [Treat]</data>
+<data key="componentnumber">16</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1458.7249</data>
+<data key="y">-560.0841</data>
+</node>
+<node id="Secretary of State of Mexico [Cafledo]">
+<data key="label">Secretary of State of Mexico [Cafledo]</data>
+<data key="componentnumber">16</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1456.0267</data>
+<data key="y">-559.23553</data>
+</node>
+<node id="Joaquin Rivas Sayas">
+<data key="label">Joaquin Rivas Sayas</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0032071491113491424</data>
+<data key="size">1.083953</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">84.033455</data>
+<data key="y">82.57526</data>
+</node>
+<node id="Juan N. Leplicher">
+<data key="label">Juan N. Leplicher</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-2.4923692</data>
+<data key="y">70.96277</data>
+</node>
+<node id="Juan Vitalba">
+<data key="label">Juan Vitalba</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">23.662004</data>
+<data key="y">124.72572</data>
+</node>
+<node id="Cooke and others">
+<data key="label">Cooke and others</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018725627999550806</data>
+<data key="size">1.0490178</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-81.78177</data>
+<data key="y">76.12866</data>
+</node>
+<node id="Wm. G. Cooke">
+<data key="label">Wm. G. Cooke</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018725627999550806</data>
+<data key="size">1.0490178</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-83.47597</data>
+<data key="y">69.55224</data>
+</node>
+<node id="Rafael Uribe">
+<data key="label">Rafael Uribe</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.004645133698766221</data>
+<data key="size">1.1215949</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-88.5651</data>
+<data key="y">100.51463</data>
+</node>
+<node id="Van Ness and Morris">
+<data key="label">Van Ness and Morris</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.009779373881504612</data>
+<data key="size">1.2559931</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-87.73143</data>
+<data key="y">118.96588</data>
+</node>
+<node id="Mariano Arista">
+<data key="label">Mariano Arista</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.009295808525102582</data>
+<data key="size">1.2433349</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-65.01444</data>
+<data key="y">124.007355</data>
+</node>
+<node id="Ignacio de Mora">
+<data key="label">Ignacio de Mora</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0028099670289765824</data>
+<data key="size">1.0735561</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-17.563164</data>
+<data key="y">120.93457</data>
+</node>
+<node id="Sebastian Canacho">
+<data key="label">Sebastian Canacho</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">42.905563</data>
+<data key="y">129.43338</data>
+</node>
+<node id="John D. Morris">
+<data key="label">John D. Morris</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-68.813705</data>
+<data key="y">71.967865</data>
+</node>
+<node id="Carrasco">
+<data key="label">Carrasco</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.004330915826282539</data>
+<data key="size">1.1133697</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-105.24937</data>
+<data key="y">133.56096</data>
+</node>
+<node id="Brenham and Cooke">
+<data key="label">Brenham and Cooke</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-62.851837</data>
+<data key="y">29.038103</data>
+</node>
+<node id="Secretary of State [Roberts]">
+<data key="label">Secretary of State [Roberts]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.004147953763657187</data>
+<data key="size">1.1085804</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-35.96542</data>
+<data key="y">26.832472</data>
+</node>
+<node id="*Hockley and Williams">
+<data key="label">*Hockley and Williams</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.001865676978628329</data>
+<data key="size">1.0488375</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-58.7972</data>
+<data key="y">-1.6429337</data>
+</node>
+<node id="G. W. Hill">
+<data key="label">G. W. Hill</data>
+<data key="componentnumber">17</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1405.7158</data>
+<data key="y">-400.58368</data>
+</node>
+<node id="Adrian Woll">
+<data key="label">Adrian Woll</data>
+<data key="componentnumber">17</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1403.4742</data>
+<data key="y">-402.3079</data>
+</node>
+<node id="Governor of Yucatan">
+<data key="label">Governor of Yucatan</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.006523237626291441</data>
+<data key="size">1.1707578</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">35.63084</data>
+<data key="y">122.52514</data>
+</node>
+<node id="Miguel Barbachano">
+<data key="label">Miguel Barbachano</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">24.692652</data>
+<data key="y">130.54893</data>
+</node>
+<node id="Martin F. Peraza">
+<data key="label">Martin F. Peraza</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018725627999550806</data>
+<data key="size">1.0490178</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-70.0516</data>
+<data key="y">66.37638</data>
+</node>
+<node id="PedrffLemus">
+<data key="label">PedrffLemus</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0032071491113491424</data>
+<data key="size">1.083953</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">91.040535</data>
+<data key="y">87.91733</data>
+</node>
+<node id="Pedro Lemus">
+<data key="label">Pedro Lemus</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">112.373634</data>
+<data key="y">102.74968</data>
+</node>
+<node id="Joaquin G. Rej6n">
+<data key="label">Joaquin G. Rej6n</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-155.95537</data>
+<data key="y">-48.11309</data>
+</node>
+<node id="Secretary of State [Waples; acting]">
+<data key="label">Secretary of State [Waples; acting]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0024414754916575704</data>
+<data key="size">1.0639101</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-165.11778</data>
+<data key="y">-50.849487</data>
+</node>
+<node id="Instructions">
+<data key="label">Instructions</data>
+<data key="componentnumber">18</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">362.63202</data>
+<data key="y">1489.8058</data>
+</node>
+<node id="Peraza">
+<data key="label">Peraza</data>
+<data key="componentnumber">18</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">360.92487</data>
+<data key="y">1492.0563</data>
+</node>
+<node id="Secretary of State [Rej6n]">
+<data key="label">Secretary of State [Rej6n]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0022206928506110276</data>
+<data key="size">1.0581307</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">130.5036</data>
+<data key="y">112.98795</data>
+</node>
+<node id="R. A. Irion">
+<data key="label">R. A. Irion</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003297881203759045</data>
+<data key="size">1.0863281</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-36.443382</data>
+<data key="y">87.28257</data>
+</node>
+<node id="Secretary of State [Irion]">
+<data key="label">Secretary of State [Irion]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002645555100151178</data>
+<data key="size">1.0692523</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-40.716442</data>
+<data key="y">85.71457</data>
+</node>
+<node id="Lord Palmerston">
+<data key="label">Lord Palmerston</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0051589602531223</data>
+<data key="size">1.1350453</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-20.582867</data>
+<data key="y">74.64228</data>
+</node>
+<node id="Lizardi &lt;k Co.">
+<data key="label">Lizardi &lt;k Co.</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0017757869620073545</data>
+<data key="size">1.0464845</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-57.889492</data>
+<data key="y">96.76273</data>
+</node>
+<node id="Agent of Lloyds">
+<data key="label">Agent of Lloyds</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018386176631028403</data>
+<data key="size">1.0481292</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-60.615623</data>
+<data key="y">107.62727</data>
+</node>
+<node id="H. S. Fox">
+<data key="label">H. S. Fox</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018887818978778755</data>
+<data key="size">1.0494423</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">27.605022</data>
+<data key="y">44.967865</data>
+</node>
+<node id="Secretary of State [Burnet]">
+<data key="label">Secretary of State [Burnet]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0028629971346871338</data>
+<data key="size">1.0749443</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-33.4675</data>
+<data key="y">90.29383</data>
+</node>
+<node id="John Taylor">
+<data key="label">John Taylor</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">30.77952</data>
+<data key="y">127.55632</data>
+</node>
+<node id="List of negro subjects of Great Britain alleged">
+<data key="label">List of negro subjects of Great Britain alleged</data>
+<data key="componentnumber">19</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">71.61649</data>
+<data key="y">-1442.1659</data>
+</node>
+<node id="be held in slavery in Texas">
+<data key="label">be held in slavery in Texas</data>
+<data key="componentnumber">19</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">68.8706</data>
+<data key="y">-1441.4874</data>
+</node>
+<node id="Lord Russell">
+<data key="label">Lord Russell</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.006523237626291441</data>
+<data key="size">1.1707578</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">17.33103</data>
+<data key="y">128.73491</data>
+</node>
+<node id="Wm. Barron">
+<data key="label">Wm. Barron</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0026146669298483067</data>
+<data key="size">1.0684438</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-17.656105</data>
+<data key="y">55.444378</data>
+</node>
+<node id="Geo. S. Mcintosh">
+<data key="label">Geo. S. Mcintosh</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.008795465629753377</data>
+<data key="size">1.2302375</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-2.0683033</data>
+<data key="y">-1.3942665</data>
+</node>
+<node id="Monroe Edwards">
+<data key="label">Monroe Edwards</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018887818978778755</data>
+<data key="size">1.0494423</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-3.2700644</data>
+<data key="y">53.75847</data>
+</node>
+<node id="James H. Starr">
+<data key="label">James H. Starr</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0025321941889114947</data>
+<data key="size">1.0662849</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">10.712399</data>
+<data key="y">140.3548</data>
+</node>
+<node id="A. T. Burnley">
+<data key="label">A. T. Burnley</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">43.389797</data>
+<data key="y">105.13042</data>
+</node>
+<node id="Arthur Ikin">
+<data key="label">Arthur Ikin</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">15.947966</data>
+<data key="y">-15.066329</data>
+</node>
+<node id="John Crawford">
+<data key="label">John Crawford</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">29.570625</data>
+<data key="y">120.671265</data>
+</node>
+<node id="Geo. Fisher">
+<data key="label">Geo. Fisher</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">23.314539</data>
+<data key="y">-22.570774</data>
+</node>
+<node id="Lord Aberdeen">
+<data key="label">Lord Aberdeen</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.008635188535684164</data>
+<data key="size">1.226042</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">6.97153</data>
+<data key="y">-56.005463</data>
+</node>
+<node id="Edward Everett">
+<data key="label">Edward Everett</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003642025047918892</data>
+<data key="size">1.0953367</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">16.430042</data>
+<data key="y">-51.909645</data>
+</node>
+<node id="Samuel Amory">
+<data key="label">Samuel Amory</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">11.275134</data>
+<data key="y">-117.81966</data>
+</node>
+<node id="George K. Teulon">
+<data key="label">George K. Teulon</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.00332543613427317</data>
+<data key="size">1.0870495</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">12.598778</data>
+<data key="y">-143.27481</data>
+</node>
+<node id="M. P. Russell">
+<data key="label">M. P. Russell</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">23.193926</data>
+<data key="y">-51.53948</data>
+</node>
+<node id="Joseph Hume">
+<data key="label">Joseph Hume</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">8.292422</data>
+<data key="y">-77.96576</data>
+</node>
+<node id="Lachlin M. Rate">
+<data key="label">Lachlin M. Rate</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0033101052763442667</data>
+<data key="size">1.0866481</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">8.083458</data>
+<data key="y">-66.53283</data>
+</node>
+<node id="Memorandum concerning War Steamers">
+<data key="label">Memorandum concerning War Steamers</data>
+<data key="componentnumber">20</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1223.6204</data>
+<data key="y">794.9709</data>
+</node>
+<node id="be used against Texas">
+<data key="label">be used against Texas</data>
+<data key="componentnumber">20</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1223.071</data>
+<data key="y">792.2027</data>
+</node>
+<node id="Wm. Pringle">
+<data key="label">Wm. Pringle</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0026001849876951455</data>
+<data key="size">1.0680647</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">20.95546</data>
+<data key="y">-45.396618</data>
+</node>
+<node id="William Kennedy">
+<data key="label">William Kennedy</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.005420463650717805</data>
+<data key="size">1.1418906</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">16.066772</data>
+<data key="y">-73.73864</data>
+</node>
+<node id="Fox Sons &amp; Co.">
+<data key="label">Fox Sons &amp; Co.</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">39.97</data>
+<data key="y">-47.974567</data>
+</node>
+<node id="Gabriel Shaw">
+<data key="label">Gabriel Shaw</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">40.243275</data>
+<data key="y">-40.432957</data>
+</node>
+<node id="Certificate of Exchange of Ratification of Convention as">
+<data key="label">Certificate of Exchange of Ratification of Convention as</data>
+<data key="componentnumber">21</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1475.8411</data>
+<data key="y">-153.4788</data>
+</node>
+<node id="Debt be-">
+<data key="label">Debt be-</data>
+<data key="componentnumber">21</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1475.1028</data>
+<data key="y">-156.20584</data>
+</node>
+<node id="tween Texas and Great Britain">
+<data key="label">tween Texas and Great Britain</data>
+<data key="componentnumber">22</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1459.2266</data>
+<data key="y">-207.98213</data>
+</node>
+<node id="June 28 1842">
+<data key="label">June 28 1842</data>
+<data key="componentnumber">22</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1461.6251</data>
+<data key="y">-206.4844</data>
+</node>
+<node id="G. W. Terrell">
+<data key="label">G. W. Terrell</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0057420192883288965</data>
+<data key="size">1.1503079</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-8.556704</data>
+<data key="y">-58.480976</data>
+</node>
+<node id="Charles Elliot">
+<data key="label">Charles Elliot</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.019174547942903096</data>
+<data key="size">1.5019292</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-10.736182</data>
+<data key="y">-48.225</data>
+</node>
+<node id="H. U. Addington">
+<data key="label">H. U. Addington</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">24.646664</data>
+<data key="y">4.889409</data>
+</node>
+<node id="Texan Consuls">
+<data key="label">Texan Consuls</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">22.489311</data>
+<data key="y">-83.449265</data>
+</node>
+<node id="Lords of the Treasury">
+<data key="label">Lords of the Treasury</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018887818978778755</data>
+<data key="size">1.0494423</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-8.500167</data>
+<data key="y">51.206</data>
+</node>
+<node id="Senior Officer of British Navy">
+<data key="label">Senior Officer of British Navy</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018887818978778755</data>
+<data key="size">1.0494423</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">35.98376</data>
+<data key="y">41.673904</data>
+</node>
+<node id="Percy W. Doyle">
+<data key="label">Percy W. Doyle</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-35.90138</data>
+<data key="y">-77.54254</data>
+</node>
+<node id="Baron de Cetto">
+<data key="label">Baron de Cetto</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">32.423363</data>
+<data key="y">-47.51988</data>
+</node>
+<node id="Holford &amp; Co.">
+<data key="label">Holford &amp; Co.</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">19.774086</data>
+<data key="y">-59.59515</data>
+</node>
+<node id="John Hall">
+<data key="label">John Hall</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">23.720608</data>
+<data key="y">-106.699974</data>
+</node>
+<node id="Lord Clarendon">
+<data key="label">Lord Clarendon</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0018632281442298093</data>
+<data key="size">1.0487734</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-28.709791</data>
+<data key="y">-90.393776</data>
+</node>
+<node id="Count Mol6">
+<data key="label">Count Mol6</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003297881203759045</data>
+<data key="size">1.0863281</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-37.202145</data>
+<data key="y">82.077225</data>
+</node>
+<node id="Secretary of State [Bee]">
+<data key="label">Secretary of State [Bee]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0017757869620073545</data>
+<data key="size">1.0464845</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-50.41954</data>
+<data key="y">107.34962</data>
+</node>
+<node id="Abb6 Anduz6">
+<data key="label">Abb6 Anduz6</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0028099670289765824</data>
+<data key="size">1.0735561</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-0.30861515</data>
+<data key="y">119.62673</data>
+</node>
+<node id="Admiral Baudin">
+<data key="label">Admiral Baudin</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0028099670289765824</data>
+<data key="size">1.0735561</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-19.900562</data>
+<data key="y">129.83846</data>
+</node>
+<node id="Secretary of State">
+<data key="label">Secretary of State</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.00199322899654331</data>
+<data key="size">1.0521765</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-45.00009</data>
+<data key="y">93.48623</data>
+</node>
+<node id="Lewis Cass">
+<data key="label">Lewis Cass</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-53.784443</data>
+<data key="y">101.77557</data>
+</node>
+<node id="A. de Saligny">
+<data key="label">A. de Saligny</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.016246181607171263</data>
+<data key="size">1.4252738</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">7.954199</data>
+<data key="y">2.0413954</data>
+</node>
+<node id="M. Guizot">
+<data key="label">M. Guizot</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.010346247384956262</data>
+<data key="size">1.2708321</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">7.4878116</data>
+<data key="y">-23.07958</data>
+</node>
+<node id="Henry Castro">
+<data key="label">Henry Castro</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002409701927989749</data>
+<data key="size">1.0630784</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">15.452176</data>
+<data key="y">-29.146255</data>
+</node>
+<node id="Secretary of State [Mayfield]">
+<data key="label">Secretary of State [Mayfield]</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002421615149875878</data>
+<data key="size">1.0633903</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">33.440453</data>
+<data key="y">5.7009687</data>
+</node>
+<node id="Henry J. Jewett">
+<data key="label">Henry J. Jewett</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.003617018687472242</data>
+<data key="size">1.0946821</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-11.094575</data>
+<data key="y">28.671732</data>
+</node>
+<node id="Thos. Gales Forster">
+<data key="label">Thos. Gales Forster</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.00258768180747182</data>
+<data key="size">1.0677373</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-10.34169</data>
+<data key="y">21.89709</data>
+</node>
+<node id="Wm. Sevey">
+<data key="label">Wm. Sevey</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0037109570659595798</data>
+<data key="size">1.0971411</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">5.2662334</data>
+<data key="y">109.01937</data>
+</node>
+<node id="A. Hutchinson">
+<data key="label">A. Hutchinson</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0025834701343750805</data>
+<data key="size">1.0676271</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-20.692749</data>
+<data key="y">26.748484</data>
+</node>
+<node id="Alleye de Cyprey">
+<data key="label">Alleye de Cyprey</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0028830407737506563</data>
+<data key="size">1.0754689</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">69.24543</data>
+<data key="y">6.354897</data>
+</node>
+<node id="A. Gloux">
+<data key="label">A. Gloux</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">94.76529</data>
+<data key="y">7.172553</data>
+</node>
+<node id="Declaration of Wyse as">
+<data key="label">Declaration of Wyse as</data>
+<data key="componentnumber">23</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-653.6013</data>
+<data key="y">-1338.8394</data>
+</node>
+<node id="goods shipped on Santa Maria">
+<data key="label">goods shipped on Santa Maria</data>
+<data key="componentnumber">23</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-656.01337</data>
+<data key="y">-1337.362</data>
+</node>
+<node id="Memorandum relative">
+<data key="label">Memorandum relative</data>
+<data key="componentnumber">24</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1300.9409</data>
+<data key="y">-588.60114</data>
+</node>
+<node id="Saligny 's investments in Texan bonds 1368">
+<data key="label">Saligny 's investments in Texan bonds 1368</data>
+<data key="componentnumber">24</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1299.9006</data>
+<data key="y">-591.23145</data>
+</node>
+<node id="Theodore Barbey">
+<data key="label">Theodore Barbey</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0026001849876951455</data>
+<data key="size">1.0680647</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">16.417267</data>
+<data key="y">-64.440994</data>
+</node>
+<node id="Al. Bourgeois">
+<data key="label">Al. Bourgeois</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.00454904402658495</data>
+<data key="size">1.1190796</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-17.311148</data>
+<data key="y">-82.17752</data>
+</node>
+<node id="Viscount J. de Cramayel">
+<data key="label">Viscount J. de Cramayel</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.007591093092240428</data>
+<data key="size">1.1987109</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-15.909033</data>
+<data key="y">-27.189716</data>
+</node>
+<node id="A. Somervell">
+<data key="label">A. Somervell</data>
+<data key="componentnumber">5</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1555.3304</data>
+<data key="y">485.59543</data>
+</node>
+<node id="Charles de Castell">
+<data key="label">Charles de Castell</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0015583449274713986</data>
+<data key="size">1.0407926</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-30.282618</data>
+<data key="y">-110.69226</data>
+</node>
+<node id="Terrell's address">
+<data key="label">Terrell's address</data>
+<data key="componentnumber">25</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1485.4482</data>
+<data key="y">454.875</data>
+</node>
+<node id="the King of France">
+<data key="label">the King of France</data>
+<data key="componentnumber">25</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1483.5374</data>
+<data key="y">458.38406</data>
+</node>
+<node id="Reply of the King of France">
+<data key="label">Reply of the King of France</data>
+<data key="componentnumber">25</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1486.7278</data>
+<data key="y">451.07297</data>
+</node>
+<node id="Washington Irving">
+<data key="label">Washington Irving</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">5.009816</data>
+<data key="y">-86.99912</data>
+</node>
+<node id="General Sancho">
+<data key="label">General Sancho</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">45.27896</data>
+<data key="y">-44.934013</data>
+</node>
+<node id="Martinez de La Rosa">
+<data key="label">Martinez de La Rosa</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002079264957583272</data>
+<data key="size">1.0544286</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">11.369889</data>
+<data key="y">-88.00231</data>
+</node>
+<node id="Baron Roenne">
+<data key="label">Baron Roenne</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0019133050717959595</data>
+<data key="size">1.0500842</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-15.826498</data>
+<data key="y">-97.290344</data>
+</node>
+<node id="Victor Pirson">
+<data key="label">Victor Pirson</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0027034281501938187</data>
+<data key="size">1.0707672</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-39.581295</data>
+<data key="y">-46.963238</data>
+</node>
+<node id="Count d' Alviella">
+<data key="label">Count d' Alviella</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0019133050717959595</data>
+<data key="size">1.0500842</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-9.595926</data>
+<data key="y">-100.16871</data>
+</node>
+<node id="V. Rumpff">
+<data key="label">V. Rumpff</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.002623225360445081</data>
+<data key="size">1.0686678</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-3.6364172</data>
+<data key="y">-77.21557</data>
+</node>
+<node id="lic of Texas and the Hanseatic Republics of Lubeck">
+<data key="label">lic of Texas and the Hanseatic Republics of Lubeck</data>
+<data key="componentnumber">26</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1109.9426</data>
+<data key="y">993.46576</data>
+</node>
+<node id="Bremen">
+<data key="label">Bremen</data>
+<data key="componentnumber">26</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1111.7635</data>
+<data key="y">991.3013</data>
+</node>
+<node id="burg">
+<data key="label">burg</data>
+<data key="componentnumber">27</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1275.4067</data>
+<data key="y">-663.118</data>
+</node>
+<node id="April 17 1844">
+<data key="label">April 17 1844</data>
+<data key="componentnumber">27</data>
+<data key="pageranks">0.0</data>
+<data key="size">10.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-1274.8878</data>
+<data key="y">-665.8982</data>
+</node>
+<node id="Senator Gildmeister">
+<data key="label">Senator Gildmeister</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0019133050717959595</data>
+<data key="size">1.0500842</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-2.686691</data>
+<data key="y">-100.10774</data>
+</node>
+<node id="R. Sieveking">
+<data key="label">R. Sieveking</data>
+<data key="componentnumber">0</data>
+<data key="pageranks">0.0019133050717959595</data>
+<data key="size">1.0500842</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-6.991153</data>
+<data key="y">-90.3551</data>
+</node>
+<edge source="Sam Houston" target="J. Pinckney Henderson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam Houston" target="Joseph Eve">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Sam Houston" target="A. B. Roman">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Sam Houston" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam Houston" target="Van Zandt and Henderson">
+<data key="weight">4.0</data>
+</edge>
+<edge source="Sam Houston" target="Secretary of State [Jones]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam Houston" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam Houston" target="*Hockley and Williams">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam Houston" target="Charles Elliot">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam Houston" target="A. de Saligny">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam Houston" target="Viscount J. de Cramayel">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="James Webb">
+<data key="weight">3.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="David G. Burnet">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Barnard E. Bee">
+<data key="weight">2.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Mirabeau B. Lamar">
+<data key="weight">2.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="R. A. Irion">
+<data key="weight">8.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Secretary of State [Irion]">
+<data key="weight">5.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Lord Palmerston">
+<data key="weight">12.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Lizardi &lt;k Co.">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Secretary of State [Burnet]">
+<data key="weight">6.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Count Mol6">
+<data key="weight">8.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Secretary of State [Bee]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. Pinckney Henderson" target="Secretary of State">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James Webb" target="Alc6e La Branche">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Webb" target="Barnard E. Bee">
+<data key="weight">3.0</data>
+</edge>
+<edge source="James Webb" target="James S. Mayfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Webb" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Webb" target="R. Pakenham">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James Webb" target="Ignacio de Mora">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Webb" target="Abb6 Anduz6">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Webb" target="Admiral Baudin">
+<data key="weight">1.0</data>
+</edge>
+<edge source="David G. Burnet" target="J. Pinckney Henderson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="David G. Burnet" target="Alc6e La Branche">
+<data key="weight">6.0</data>
+</edge>
+<edge source="David G. Burnet" target="Richard G. Dunlap">
+<data key="weight">3.0</data>
+</edge>
+<edge source="David G. Burnet" target="Anto. Lopez de Santa Anna">
+<data key="weight">4.0</data>
+</edge>
+<edge source="David G. Burnet" target="James Hamilton">
+<data key="weight">3.0</data>
+</edge>
+<edge source="David G. Burnet" target="James Treat">
+<data key="weight">3.0</data>
+</edge>
+<edge source="David G. Burnet" target="R. Pakenham">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Nathaniel Amory" target="Richard G. Dunlap">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Nathaniel Amory" target="Abner S. Lipscomb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Nathaniel Amory" target="James Hamilton">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Nathaniel Amory" target="Geo. S. Mcintosh">
+<data key="weight">1.0</data>
+</edge>
+<edge source="T. Dunlap" target="Richard G. Dunlap">
+<data key="weight">1.0</data>
+</edge>
+<edge source="John Emberson" target="Albert Sidney Johnston">
+<data key="weight">1.0</data>
+</edge>
+<edge source="William Scurlock" target="David G. Burnet">
+<data key="weight">1.0</data>
+</edge>
+<edge source="William M. Williams" target="David G. Burnet">
+<data key="weight">1.0</data>
+</edge>
+<edge source="D. Rowlett" target="David G. Burnet">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="Alc6e La Branche">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="James Hamilton and A. T. Bumley">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="Barnard E. Bee">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="Geo. H. Flood">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="James Hamilton">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="James Treat">
+<data key="weight">4.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="R. Pakenham">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="Hamilton and Burnley">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner S. Lipscomb" target="Wm. Barron">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Waples" target="Nathaniel Amory">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Waples" target="Barnard E. Bee">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Waples" target="Geo. H. Flood">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Joseph Waples" target="Wm. Barron">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Waples" target="Charles Elliot">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Barnard E. Bee" target="Sam Houston">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Barnard E. Bee" target="James Webb">
+<data key="weight">20.0</data>
+</edge>
+<edge source="Barnard E. Bee" target="David G. Burnet">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Barnard E. Bee" target="[Lamar]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Barnard E. Bee" target="James Treat">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Barnard E. Bee" target="Secretary of State [Lipscomb]">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Geo. H. Flood" target="James S. Mayfield">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James S. Mayfield" target="James Webb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James S. Mayfield" target="Nathaniel Amory">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James S. Mayfield" target="Barnard E. Bee">
+<data key="weight">3.0</data>
+</edge>
+<edge source="James S. Mayfield" target="Geo. H. Flood">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James S. Mayfield" target="Wm. Henry Daingerfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James S. Mayfield" target="James Hamilton">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James S. Mayfield" target="Geo. S. Mcintosh">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James S. Mayfield" target="A. de Saligny">
+<data key="weight">7.0</data>
+</edge>
+<edge source="James S. Mayfield" target="Henry J. Jewett">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James S. Mayfield" target="Thos. Gales Forster">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="James Webb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Barnard E. Bee">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Joseph Eve">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="James Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Cooke and others">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Wm. G. Cooke">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Rafael Uribe">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Van Ness and Morris">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Martin F. Peraza">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel A. Roberts" target="Geo. S. Mcintosh">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Eve" target="Joseph Waples">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Eve" target="Anson Jones">
+<data key="weight">5.0</data>
+</edge>
+<edge source="Joseph Eve" target="Texaa">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Eve" target="President of Texas">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Isaac Van Zandt" target="Anson Jones">
+<data key="weight">33.0</data>
+</edge>
+<edge source="Isaac Van Zandt" target="William S. Archer">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Isaac Van Zandt" target="Daniel Webster">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Isaac Van Zandt" target="A. P. Upshur">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Sam Houston">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="J. Pinckney Henderson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Joseph Eve">
+<data key="weight">4.0</data>
+</edge>
+<edge source="Anson Jones" target="Isaac Van Zandt">
+<data key="weight">18.0</data>
+</edge>
+<edge source="Anson Jones" target="Wm. Henry Daingerfield">
+<data key="weight">4.0</data>
+</edge>
+<edge source="Anson Jones" target="A. M. Green">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Charles H. Raymond">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Anson Jones" target="W. S. Murphy">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Van Zandt and Henderson">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Anson Jones" target="Howard *s address 294">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Zachary Taylor">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="James Reily">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="A. J. Donelson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Ashbel Smith">
+<data key="weight">18.0</data>
+</edge>
+<edge source="Anson Jones" target="James K. Polk">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Anson Jones" target="James Hamilton">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Anson Jones" target="Geo. S. Mcintosh">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="William Kennedy">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="G. W. Terrell">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Charles Elliot">
+<data key="weight">10.0</data>
+</edge>
+<edge source="Anson Jones" target="A. de Saligny">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Anson Jones" target="Al. Bourgeois">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson Jones" target="Viscount J. de Cramayel">
+<data key="weight">5.0</data>
+</edge>
+<edge source="Anson Jones" target="Victor Pirson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. C. Spencer" target="Isaac Van Zandt">
+<data key="weight">1.0</data>
+</edge>
+<edge source="T. Hartley Crawford" target="Wm. Armstrong">
+<data key="weight">1.0</data>
+</edge>
+<edge source="T. Hartley Crawford" target="A. J. Donelson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Jones" target="W. Davenport and G. Loomis">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Jones" target="the Secretary of War [of the United States]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Jones" target="Zachary Taylor">
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. E. Hale" target="Joseph Eve">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Anson Jones">
+<data key="weight">10.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Secretary of State [Jones]">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Ebenezer Allen">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Ashbel Smith">
+<data key="weight">5.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Lachlin M. Rate">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="G. W. Terrell">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Baron Roenne">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Count d' Alviella">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="V. Rumpff">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="Senator Gildmeister">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Henry Daingerfield" target="R. Sieveking">
+<data key="weight">1.0</data>
+</edge>
+<edge source="' Daniel Webster" target="Isaac Van Zandt">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Reuben M. Potter" target="A. M. Green">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Reuben M. Potter" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. M. Green" target="Joseph Eve">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. M. Green" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph W. Robertson" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles H. Raymond" target="Anson Jones">
+<data key="weight">6.0</data>
+</edge>
+<edge source="Charles H. Raymond" target="John C. Calhoun">
+<data key="weight">5.0</data>
+</edge>
+<edge source="Charles H. Raymond" target="Secretary of State [Jones]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles H. Raymond" target="Secretary of State [Allen]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles H. Raymond" target="Ebenezer Allen">
+<data key="weight">10.0</data>
+</edge>
+<edge source="Charles H. Raymond" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Jesse Benton" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Petition of Joseph Cooper" target="the Texan minister 187">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. M. Porter" target="H. S. Legar^">
+<data key="weight">1.0</data>
+</edge>
+<edge source="William Armstrong" target="T. H. Crawford">
+<data key="weight">2.0</data>
+</edge>
+<edge source="M. C. Hamilton" target="Jacob Snively">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Jacob Snively" target="Geo. W. HUl">
+<data key="weight">1.0</data>
+</edge>
+<edge source="W. S. Murphy" target="Anson Jones">
+<data key="weight">2.0</data>
+</edge>
+<edge source="A. P. Upshur" target="Isaac Van Zandt">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. H. Brower" target="Isaac Van Zandt">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Van Zandt and Henderson" target="Anson Jones">
+<data key="weight">4.0</data>
+</edge>
+<edge source="Address of Tilghman A. Howard" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Wilkins" target="John C. Calhoun">
+<data key="weight">1.0</data>
+</edge>
+<edge source="John C. Calhoun" target="Charles H. Raymond">
+<data key="weight">3.0</data>
+</edge>
+<edge source="D. Parker" target="John C. Calhoun">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Zachary Taylor" target="AdjutantrGeneral [R. Jones]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="G. Loomis" target="W. W. S. Bliss">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. J. Donelson" target="Anson Jones">
+<data key="weight">2.0</data>
+</edge>
+<edge source="A. J. Donelson" target="Secretary of State [Allen]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. J. Donelson" target="Ebenezer Allen">
+<data key="weight">5.0</data>
+</edge>
+<edge source="M.S. CucuUu" target="John C. Spencer">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Balie Peyton" target="M. S. CucuUu">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Eddy and Moss" target="the collector of the customs at New Orleans">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Secretary of State [Jones]" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="Charles H. Raymond">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="A. J. Donelson">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="Ashbel Smith">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="David S. Kaufman">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="William D. Lee">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="E. A. Rhodes">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="William Kennedy">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="Charles Elliot">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ebenezer Allen" target="A. de Saligny">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Duff Green" target="A. J. Donelson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Williams; Thurston; and Meggerson" target="Duff Green">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Isaac Van Zandt">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Anson Jones">
+<data key="weight">63.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Wm. Henry Daingerfield">
+<data key="weight">6.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Charles H. Raymond">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ashbel Smith" target="James Reily">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="A. J. Donelson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Secretary of State [Allen]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Ebenezer Allen">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Stewart Newell">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Geo. S. Mcintosh">
+<data key="weight">4.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Arthur Ikin">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Lord Aberdeen">
+<data key="weight">13.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Edward Everett">
+<data key="weight">4.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Samuel Amory">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="M. P. Russell">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Joseph Hume">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Lachlin M. Rate">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Wm. Pringle">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ashbel Smith" target="H. U. Addington">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Texan Consuls">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Baron de Cetto">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="A. de Saligny">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ashbel Smith" target="M. Guizot">
+<data key="weight">9.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Henry Castro">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Theodore Barbey">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Al. Bourgeois">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Washington Irving">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="General Sancho">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ashbel Smith" target="Martinez de La Rosa">
+<data key="weight">1.0</data>
+</edge>
+<edge source="David S. Kaufman" target="Ebenezer Allen">
+<data key="weight">2.0</data>
+</edge>
+<edge source="David S. Kaufman" target="James Buchanan">
+<data key="weight">1.0</data>
+</edge>
+<edge source="William D. Lee" target="Ebenezer Allen">
+<data key="weight">4.0</data>
+</edge>
+<edge source="William D. Lee" target="James Buchanan">
+<data key="weight">2.0</data>
+</edge>
+<edge source="E. A. Rhodes" target="Ebenezer Allen">
+<data key="weight">2.0</data>
+</edge>
+<edge source="J. Y. Mason" target="E. A. Rhodes">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Buchanan" target="William D. Lee">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Buchanan" target="E. W. Moore">
+<data key="weight">1.0</data>
+</edge>
+<edge source="W. L. Marcy" target="David S. Kaufman">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph C. Eldredge" target="E. A. Rhodes">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. J. Walker" target="Hiram G. Runnels">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anto. Lopez de Santa Anna" target="Sam Houston">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anto. Lopez de Santa Anna" target="David G. Burnet">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Stephen F. Austin" target="Fran. Pizarro Martinez">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Fran. Pizarro Martinez" target="Stephen F. Austin">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. W. Hockley" target="Sam Houston">
+<data key="weight">2.0</data>
+</edge>
+<edge source="A. J. Yates" target="Stephen F. Austin">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Correspondent in Tampico" target="T. Toby">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Antonio Canales" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mirabeau B. Lamar" target="James Treat">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mirabeau B. Lamar" target="E. W. Moore">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mirabeau B. Lamar" target="Mariano Arista">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mirabeau B. Lamar" target="Governor of Yucatan">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mirabeau B. Lamar" target="Lord Russell">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. L. Hammeken" target="James Webb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. L. Hammeken" target="James Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="David G. Burnet">
+<data key="weight">3.0</data>
+</edge>
+<edge source="James Hamilton" target="Nathaniel Amory">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="Abner S. Lipscomb">
+<data key="weight">14.0</data>
+</edge>
+<edge source="James Hamilton" target="James S. Mayfield">
+<data key="weight">3.0</data>
+</edge>
+<edge source="James Hamilton" target="Samuel A. Roberts">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="Anson Jones">
+<data key="weight">8.0</data>
+</edge>
+<edge source="James Hamilton" target="Mirabeau B. Lamar">
+<data key="weight">8.0</data>
+</edge>
+<edge source="James Hamilton" target="R. Copeland">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="R. Pakenham">
+<data key="weight">2.0</data>
+</edge>
+<edge source="James Hamilton" target="Secretary of State [Roberts]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="Lord Palmerston">
+<data key="weight">3.0</data>
+</edge>
+<edge source="James Hamilton" target="H. S. Fox">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="Monroe Edwards">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="Lords of the Treasury">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="Senior Officer of British Navy">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Hamilton" target="M. Guizot">
+<data key="weight">3.0</data>
+</edge>
+<edge source="James Hamilton" target="Henry Castro">
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. R. Poinsett" target="James Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Treat" target="David G. Burnet">
+<data key="weight">10.0</data>
+</edge>
+<edge source="James Treat" target="Abner S. Lipscomb">
+<data key="weight">11.0</data>
+</edge>
+<edge source="James Treat" target="Mirabeau B. Lamar">
+<data key="weight">39.0</data>
+</edge>
+<edge source="James Treat" target="James Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Treat" target="Juan de Dios Cafiedo">
+<data key="weight">9.0</data>
+</edge>
+<edge source="James Treat" target="R. Pakenham">
+<data key="weight">4.0</data>
+</edge>
+<edge source="James Treat" target="Juan Nepomuceno Almonte">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Treat" target="Secretary of State [Lipscomb]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Treat" target="James Ritchie">
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Treat" target="E. W. Moore">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Jacob Barker" target="Barnard E. Bee">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A Friend of Treat in Mexico" target="a Friend of Treat in New Orleans [Vitalba]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A Friend of Treat in New Orleans [Vitalba]" target="James Treat">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. S. Wright" target="Nathaniel Amory">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. S. Wright" target="Barnard E. Bee">
+<data key="weight">9.0</data>
+</edge>
+<edge source="A. S. Wright" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. S. Wright" target="Wm. Bryan">
+<data key="weight">3.0</data>
+</edge>
+<edge source="A. S. Wright" target="William Bryan">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. S. Wright" target="John Merle">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Juan de Dios Cafiedo" target="R. Pakenham">
+<data key="weight">2.0</data>
+</edge>
+<edge source="R. Pakenham" target="James Webb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Pakenham" target="David G. Burnet">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Pakenham" target="James S. Mayfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Pakenham" target="James Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Pakenham" target="James Treat">
+<data key="weight">6.0</data>
+</edge>
+<edge source="Propositions of Texas" target="Mexico">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Hamilton and Burnley" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Hamilton and Burnley" target="James H. Starr">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Jas. Ogilvy" target="R. Pakenham">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Correspondent at Vera Cruz" target="David G. Burnet">
+<data key="weight">1.0</data>
+</edge>
+<edge source="E. W. Moore" target="Abner S. Lipscomb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="E. W. Moore" target="James Buchanan">
+<data key="weight">1.0</data>
+</edge>
+<edge source="E. W. Moore" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="E. W. Moore" target="James Treat">
+<data key="weight">2.0</data>
+</edge>
+<edge source="E. W. Moore" target="Joaquin Rivas Sayas">
+<data key="weight">1.0</data>
+</edge>
+<edge source="E. W. Moore" target="PedrffLemus">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Memorandum communicated by Treat" target="Mexican Government">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Agent of Texas [Treat]" target="Secretary of State of Mexico [Cafledo]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joaquin Rivas Sayas" target="E. W. Moore">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Juan N. Leplicher" target="Nathaniel Amory">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Juan Vitalba" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Van Ness and Morris" target="Rafael Uribe">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Van Ness and Morris" target="Mariano Arista">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Van Ness and Morris" target="Carrasco">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mariano Arista" target="Van Ness and Morris">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ignacio de Mora" target="James Webb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sebastian Canacho" target="R. Pakenham">
+<data key="weight">1.0</data>
+</edge>
+<edge source="John D. Morris" target="Samuel A. Roberts">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Brenham and Cooke" target="Secretary of State [Roberts]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="G. W. Hill" target="Adrian Woll">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miguel Barbachano" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Martin F. Peraza" target="Samuel A. Roberts">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Pedro Lemus" target="E. W. Moore">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Pedro Lemus" target="Secretary of State [Rej6n]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joaquin G. Rej6n" target="President of Texas">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joaquin G. Rej6n" target="Secretary of State [Waples; acting]">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Instructions" target="Peraza">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. A. Irion" target="J. Pinckney Henderson">
+<data key="weight">9.0</data>
+</edge>
+<edge source="R. A. Irion" target="Agent of Lloyds">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Lord Palmerston" target="J. Pinckney Henderson">
+<data key="weight">7.0</data>
+</edge>
+<edge source="Lord Palmerston" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Lord Palmerston" target="James Hamilton">
+<data key="weight">3.0</data>
+</edge>
+<edge source="H. S. Fox" target="James Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="John Taylor" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="List of negro subjects of Great Britain alleged" target="be held in slavery in Texas">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. S. Mcintosh" target="James S. Mayfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. S. Mcintosh" target="Ashbel Smith">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Geo. S. Mcintosh" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. S. Mcintosh" target="Secretary of State [Roberts]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. S. Mcintosh" target="M. Guizot">
+<data key="weight">3.0</data>
+</edge>
+<edge source="James H. Starr" target="Wm. Sevey">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. T. Burnley" target="David G. Burnet">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. T. Burnley" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Arthur Ikin" target="James S. Mayfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Arthur Ikin" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Arthur Ikin" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="John Crawford" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. Fisher" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Lord Aberdeen" target="Secretary of State [Jones]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Lord Aberdeen" target="Ashbel Smith">
+<data key="weight">7.0</data>
+</edge>
+<edge source="Lord Aberdeen" target="Charles Elliot">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Edward Everett" target="Ashbel Smith">
+<data key="weight">5.0</data>
+</edge>
+<edge source="Samuel Amory" target="George K. Teulon">
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. P. Russell" target="Ashbel Smith">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Joseph Hume" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Lachlin M. Rate" target="Ashbel Smith">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Memorandum concerning War Steamers" target="be used against Texas">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Pringle" target="Ashbel Smith">
+<data key="weight">4.0</data>
+</edge>
+<edge source="William Kennedy" target="Anson Jones">
+<data key="weight">2.0</data>
+</edge>
+<edge source="William Kennedy" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Fox Sons &amp; Co." target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Gabriel Shaw" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Certificate of Exchange of Ratification of Convention as" target="Debt be-">
+<data key="weight">1.0</data>
+</edge>
+<edge source="tween Texas and Great Britain" target="June 28 1842">
+<data key="weight">1.0</data>
+</edge>
+<edge source="G. W. Terrell" target="Wm. Henry Daingerfield">
+<data key="weight">2.0</data>
+</edge>
+<edge source="G. W. Terrell" target="Ashbel Smith">
+<data key="weight">9.0</data>
+</edge>
+<edge source="G. W. Terrell" target="Lord Aberdeen">
+<data key="weight">1.0</data>
+</edge>
+<edge source="G. W. Terrell" target="Charles Elliot">
+<data key="weight">2.0</data>
+</edge>
+<edge source="G. W. Terrell" target="Lord Clarendon">
+<data key="weight">1.0</data>
+</edge>
+<edge source="G. W. Terrell" target="M. Guizot">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles Elliot" target="Anson Jones">
+<data key="weight">15.0</data>
+</edge>
+<edge source="Charles Elliot" target="Secretary of State [Jones]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles Elliot" target="Ebenezer Allen">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles Elliot" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles Elliot" target="G. W. Terrell">
+<data key="weight">3.0</data>
+</edge>
+<edge source="H. U. Addington" target="James Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Percy W. Doyle" target="Charles Elliot">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Baron de Cetto" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Holford &amp; Co." target="Ashbel Smith">
+<data key="weight">2.0</data>
+</edge>
+<edge source="John Hall" target="William Kennedy">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Count Mol6" target="J. Pinckney Henderson">
+<data key="weight">3.0</data>
+</edge>
+<edge source="Abb6 Anduz6" target="Mirabeau B. Lamar">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Lewis Cass" target="J. Pinckney Henderson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. de Saligny" target="Sam Houston">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. de Saligny" target="Abner S. Lipscomb">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. de Saligny" target="James S. Mayfield">
+<data key="weight">7.0</data>
+</edge>
+<edge source="A. de Saligny" target="Anson Jones">
+<data key="weight">4.0</data>
+</edge>
+<edge source="A. de Saligny" target="Ebenezer Allen">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. de Saligny" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. de Saligny" target="Secretary of State [Mayfield]">
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Guizot" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Guizot" target="Ashbel Smith">
+<data key="weight">7.0</data>
+</edge>
+<edge source="M. Guizot" target="Geo. S. Mcintosh">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Henry Castro" target="Anson Jones">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Henry Castro" target="Ashbel Smith">
+<data key="weight">6.0</data>
+</edge>
+<edge source="Henry J. Jewett" target="James S. Mayfield">
+<data key="weight">2.0</data>
+</edge>
+<edge source="Henry J. Jewett" target="A. Hutchinson">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Thos. Gales Forster" target="James S. Mayfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Sevey" target="James S. Mayfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. Hutchinson" target="James S. Mayfield">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Alleye de Cyprey" target="A. de Saligny">
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. Gloux" target="Alleye de Cyprey">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Declaration of Wyse as" target="goods shipped on Santa Maria">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Memorandum relative" target="Saligny 's investments in Texan bonds 1368">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Theodore Barbey" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Al. Bourgeois" target="Ashbel Smith">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Viscount J. de Cramayel" target="Anson Jones">
+<data key="weight">6.0</data>
+</edge>
+<edge source="A. Somervell" target="M. C. Hamilton">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Charles de Castell" target="Al. Bourgeois">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Terrell's address" target="the King of France">
+<data key="weight">1.0</data>
+</edge>
+<edge source="Reply of the King of France" target="Terrell's address">
+<data key="weight">1.0</data>
+</edge>
+<edge source="lic of Texas and the Hanseatic Republics of Lubeck" target="Bremen">
+<data key="weight">1.0</data>
+</edge>
+<edge source="burg" target="April 17 1844">
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Sieveking" target="Wm. Henry Daingerfield">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
